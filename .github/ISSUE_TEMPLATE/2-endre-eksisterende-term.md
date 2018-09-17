@@ -4,8 +4,13 @@ about: Velg denne dersom du har funnet en mulig (skrive)feil eller hvis du ønsk
 
 ---
 
-**Hvilke(n) term(er) det gjelder**
+La overskriften (title) være termen du ønsker å endre. Fjern denne linja.
+
+**Hvilke(n) term(er) det gjelder:**
 Erstatt denne linja med termen(e).
 
-**Kommentar**
+**Endringsforslag:**
 Erstatt denne linja med hva du ønsker å endre.
+
+**Begrunnelse:**
+Erstatt denne linja med en begrunnelse dersom du ønsker det. Hvis ikke, fjern dette.
