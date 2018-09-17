@@ -1,3 +1,6 @@
+install: true
+sudo: false
+
 cache:
   directories:
     - csvlint-v0.2.0-linux-amd64
